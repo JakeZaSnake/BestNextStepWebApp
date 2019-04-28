@@ -1,0 +1,106 @@
+.inputStyle {
+  color: #686868;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 6px;
+  border-color: #262626;
+  text-align: center;
+  width: 60%;
+  height: 60px;
+  margin: 10px;
+}
+.signInButton {
+  color: #dedede;
+  background-color: #21a6f6;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 6px;
+  border-color: #21a6f6;
+  text-align: center;
+  width: 60%;
+  height: 60px;
+  margin: 10px;
+}
+.signInBubbles {
+  width: 50%;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.label {
+  color: #dedede;
+  background-color: #21a6f6;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 6px;
+  border-color: #21a6f6;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 6px;
+}
+.text {
+  color: #dedede;
+  background-color: #21a6f6;
+  text-align: center;
+  font-size: 12px;
+  border-radius: 6px;
+  border-color: #21a6f6;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.labelInput {
+  color: #dedede;
+  background-color: #21a6f6;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 6px;
+  border-width: 1.5px;
+  border-color: #21a6f6;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 6px;
+}
+.textInput {
+  color: #dedede;
+  background-color: #21a6f6;
+  text-align: center;
+  font-size: 12px;
+  border-radius: 6px;
+  border-width: 1.5px;
+  border-color: #21a6f6;
+  text-align: center;
+  width: 90%;
+  height: auto;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+
+.mainTextFields {
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.Done {
+  color: #dedede;
+  background-color: #21a6f6;
+  text-align: center;
+  font-size: 30px;
+  border-radius: 6px;
+  border-color: #21a6f6;
+  text-align: center;
+  width: 40%;
+  height: 40px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
