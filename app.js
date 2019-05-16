@@ -4,27 +4,17 @@ function signIn() {
 }
 
 function done() {
-  const label1InputVar = document.getElementById("label1Input").value;
-  const text1InputVar = document.getElementById("text1Input").value;
-  const label2InputVar = document.getElementById("label2Input").value;
-  const text2InputVar = document.getElementById("text2Input").value;
-  const label3InputVar = document.getElementById("label3Input").value;
-  const text3InputVar = document.getElementById("text3Input").value;
-  const label4InputVar = document.getElementById("label4Input").value;
-  const text4InputVar = document.getElementById("text4Input").value;
-  const label5InputVar = document.getElementById("label5Input").value;
-  const text5InputVar = document.getElementById("text5Input").value;
-
-  document.getElementById("label1") = label1InputVar;
-  document.getElementById("text1") = text1InputVar;
-  document.getElementById("label2") = label2InputVar;
-  document.getElementById("text2") = text2InputVar;
-  document.getElementById("label3") = label3InputVar;
-  document.getElementById("text3") = text3InputVar;
-  document.getElementById("label4") = label4InputVar;
-  document.getElementById("text4") = text4InputVar;
-  document.getElementById("label5") = label5InputVar;
-  document.getElementById("text5") = text5InputVar;
+  console.log("Hey")
+  document.getElementById("label1") = document.getElementById("label1Input").value;
+  document.getElementById("text1") = document.getElementById("text1Input").value;
+  document.getElementById("label2") = document.getElementById("label2Input").value;
+  document.getElementById("text2") = document.getElementById("text2Input").value;
+  document.getElementById("label3") = document.getElementById("label3Input").value;
+  document.getElementById("text3") = document.getElementById("text3Input").value;
+  document.getElementById("label4") = document.getElementById("label4Input").value;
+  document.getElementById("text4") = document.getElementById("text4Input").value;
+  document.getElementById("label5") = document.getElementById("label5Input").value;
+  document.getElementById("text5") = document.getElementById("text5Input").value;
 }
 
 document.getElementById("label1Input").style.display = "none";
